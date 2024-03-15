@@ -1,0 +1,26 @@
+h1{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+body{
+    background-color: lightgreen;
+}
+h2{
+    
+    
+    color:white
+   
+}
+ul{
+margin-left:50px;
+margin-right:40px;
+border-color: green;
+background-color: rgb(87, 210, 118);
+border-width:50px;
+padding:40px;
+box-shadow: 5px 5px 5px  rgb(223, 223, 108);
+}
+div{
+    font-size:;
+}
